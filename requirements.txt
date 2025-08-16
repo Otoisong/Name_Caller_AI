@@ -1,0 +1,7 @@
+
+streamlit
+google-cloud-texttospeech
+pydub
+librosa
+numpy
+scipy
